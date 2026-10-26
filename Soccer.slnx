@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Soccer.Application/Soccer.Application.csproj" Id="c98e8e6e-ffc6-474f-9d59-27d8fe5ff3a6" />
+  <Project Path="Soccer.Domain/Soccer.Domain.csproj" Id="2e0fedaa-2199-4da6-b53a-450b9371d2a3" />
+  <Project Path="Soccer.Infrastructure/Soccer.Infrastructure.csproj" Id="29e6da23-13af-4598-8f27-70ad96119b15" />
+  <Project Path="Soccer/Soccer.csproj" />
+</Solution>
