@@ -1,5 +1,5 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
-using Soccer.Application.Services;
+using Soccer.Infrastructure.Services;
 using Soccer.Application.Interfaces;
 
 namespace Soccer.Infrastructure.Extensions;

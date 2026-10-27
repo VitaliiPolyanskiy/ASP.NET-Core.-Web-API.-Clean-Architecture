@@ -4,7 +4,7 @@ using Soccer.Application.Exceptions;
 using Soccer.Application.Interfaces;
 using AutoMapper;
 
-namespace Soccer.Application.Services;
+namespace Soccer.Infrastructure.Services;
 
 public class TeamService(IUnitOfWork database, IMapper mapper) : ITeamService
 {
